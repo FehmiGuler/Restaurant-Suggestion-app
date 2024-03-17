@@ -1,12 +1,12 @@
 
-`	java:S112H"FDefine and throw a dedicated exception instead of using a generic one.(ò˜§‚ıÿÿÿÿ
-|
-java:S1488#"fImmediately return this expression instead of assigning it to the temporary variable "allRestaurants".(ÂÀáË
-}
-java:S1488+"bImmediately return this expression instead of assigning it to the temporary variable "restaurant".(ÿŸÈ¿şÿÿÿÿ
-}
-java:S14885"gImmediately return this expression instead of assigning it to the temporary variable "savedRestaurant".(ÿ¸æ¦
-~
-java:S1488D"iImmediately return this expression instead of assigning it to the temporary variable "updatedRestaurant".(ïË÷H
-„
-java:S1488W"iImmediately return this expression instead of assigning it to the temporary variable "nearbyRestaurants".(•ˆóşÿÿÿÿ
+†	java:S112H"FDefine and throw a dedicated exception instead of using a generic one.(ò˜§‚ıÿÿÿÿJ$a8427b64-fd85-4262-a577-747487350fd8
+¢
+java:S1488#"fImmediately return this expression instead of assigning it to the temporary variable "allRestaurants".(ÂÀáËJ$0e503b7d-4e64-4dd2-83bb-9d11db4f679d
+£
+java:S1488+"bImmediately return this expression instead of assigning it to the temporary variable "restaurant".(ÿŸÈ¿şÿÿÿÿJ$25890ef8-bdf8-43d3-bbac-89718e3a0223
+£
+java:S14885"gImmediately return this expression instead of assigning it to the temporary variable "savedRestaurant".(ÿ¸æ¦J$57e970ea-1054-4e95-a448-c7615c27f5a7
+¤
+java:S1488D"iImmediately return this expression instead of assigning it to the temporary variable "updatedRestaurant".(ïË÷HJ$6879177c-a63a-4f97-b194-592e076ce348
+ª
+java:S1488W"iImmediately return this expression instead of assigning it to the temporary variable "nearbyRestaurants".(•ˆóşÿÿÿÿJ$0afc49a2-e999-4add-8279-f19e924e2d43
